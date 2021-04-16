@@ -1,4 +1,4 @@
-# ChatApplication
+# ChatApplication Android
 chat App with Firebase
 RealTime Firebase
 Firebasauth
